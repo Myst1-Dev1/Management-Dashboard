@@ -246,8 +246,8 @@ footer p a{
     }
 
     .header-content .search-box{
-        width:150px;
-        margin:15px 0;
+        width:200px;
+        margin:15px auto;
     }
 
     .projects-flex{
