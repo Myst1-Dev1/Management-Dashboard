@@ -62,7 +62,7 @@ main{
     padding:10px;
     box-shadow:0 0 5px black;
     outline:none;
-    width:400px;
+    width:100%;
 }
 
 .header-content .header-icons i{
